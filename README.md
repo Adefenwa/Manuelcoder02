@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sotunde Emmanuel Adefenwa
 =================================================================================================================================================
 
-Frontend Devloper, Graphics Designer and Technical Writer
+Frontend Developer, Graphics Designer and Technical Writer
 ---------------------------------------------------------
 
 I'm a passionate developer that brings your thoughts and ideas to you at the tip of your finger in a more comfortable way. I create beautiful graphics for different purpose in a satisfiable way. I also creates content, technical or general writing.
