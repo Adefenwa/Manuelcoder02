@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sotunde Emmanuel</h1>
-<h3 align="center">A passionate frontend developer, graphics designer and technical writer from Lagos, Nigeria. from Lagos, Nigeria.</h3>
+<h3 align="center">A passionate frontend developer, graphics designer and technical writer from Lagos, Nigeria.</h3>
 
 <p align="left"> <a href="https://twitter.com/sotundenuel" target="blank"><img src="https://img.shields.io/twitter/follow/sotundenuel?logo=twitter&style=for-the-badge" alt="sotundenuel" /></a> </p>
 
@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuelcoder02&show_icons=true&locale=en" alt="manuelcoder02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuelcoder02&" alt="manuelcoder02" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=manuelcoder02&" alt="manuelcoder02" /></p>
