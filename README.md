@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **any frontend/graphics/technical writing project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Manuelcoder02](https://github.com/Manuelcoder02)
+- 👨‍💻 All of my projects are available at [Sotunde Emmanuel](https://github.com/Manuelcoder02)
 
-- 📝 I regularly write articles on [https://dev.to/sotundenuel](https://dev.to/sotundenuel)
+- 📝 I regularly write articles on [Sotunde Emmanuel](https://dev.to/juniordev)
 
 - 💬 Ask me about **HTML, CSS, CorelDraw**
 
