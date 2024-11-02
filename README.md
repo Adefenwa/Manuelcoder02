@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sotunde Emmanuel</h1>
-<h3 align="center">A passionate frontend developer, graphics designer and technical writer from Lagos, Nigeria.</h3>
+<h3 align="center">A passionate frontend developer, designer and technical writer from Lagos, Nigeria.</h3>
 
 <p align="left"> <a href="https://twitter.com/sotundenuel" target="blank"><img src="https://img.shields.io/twitter/follow/sotundenuel?logo=twitter&style=for-the-badge" alt="sotundenuel" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **any frontend/graphics/technical writing project**
+- 👯 I’m looking to collaborate on **any frontend/design/technical writing project**
 
 - 👨‍💻 All of my projects are available at [Sotunde Emmanuel](https://github.com/Manuelcoder02)
 
 - 📝 I regularly write articles on [Sotunde Emmanuel](https://dev.to/juniordev)
 
-- 💬 Ask me about **HTML, CSS, CorelDraw**
+- 💬 Ask me about **HTML, CSS, JavaScript, and CorelDraw**
 
 - 📫 How to reach me **sotundeemmanuel@gmail.com**
 
