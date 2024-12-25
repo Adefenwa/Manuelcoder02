@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sotundenuel" target="blank"><img src="https://img.shields.io/twitter/follow/sotundenuel?logo=twitter&style=for-the-badge" alt="sotundenuel" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **any frontend/design/technical writing project**
 
